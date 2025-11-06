@@ -1,7 +1,7 @@
 👋 Hi, I'm Jep!
 
 I’m a passionate IT student at Xavier University with a strong curiosity for technology and a love for coding. I enjoy building real-world solutions and sharing what I learn along the way.
-![Jepoyskies's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jepoyskies's Stats](https://github-readme-stats.vercel.app/api?username=jepoyskies&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 🚀 About Me
 -🎓 Currently pursuing a Bachelor’s Degree in Information Technology at Xavier University
